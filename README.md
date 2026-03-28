@@ -13,7 +13,7 @@ Uso exclusivo no canal TEZZA-PROMPTS
 Testes, ajustes e refinamento de prompts de IA
 Centralização do fluxo criativo
 
-Todos os prompts aqui presentes são de autoria da TEZZA-PROMPTS e fazem parte de um processo contínuo de desenvolvimento, podendo contar com contribuições da colaboradora Nephellae.
+Todos os prompts aqui presentes são de autoria da TEZZA-PROMPTS e fazem parte de um processo contínuo de desenvolvimento, podendo contar com contribuições da colaboradora Joyce Adventure.
 
 📦 Conteúdo
 
